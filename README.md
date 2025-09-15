@@ -1,8 +1,3 @@
-Aquí te dejo un **README.md** ya listo para copiar y pegar en tu repositorio 👇
-
----
-
-```markdown
 # 📊 Universidades Públicas del Paraguay - Balance Anual de Gestión Pública (2014-2024)
 
 Este repositorio recopila los **archivos oficiales de las Universidades Públicas del Paraguay** publicados en el marco del **Balance Anual de Gestión Pública**, elaborado y difundido por el **Ministerio de Economía y Finanzas (MEF) de la República del Paraguay**.  
@@ -82,5 +77,3 @@ Dado que los documentos provienen de una **fuente oficial y pública**, su uso e
 ✍[Mantenido por: hectorpyco](https://github.com/hectorpyco)
 
 ```
-
----
